@@ -10,3 +10,12 @@ Now that you are all set up, it's time to learn a little more about the tools of
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
 7. What is a merge conflict?
 8. How do you resolve a merge conflict?
+
+1. Git is like the language and commands you use to work throughout the terminal
+2. The difference is that git up is similar to the cloud or a storage unit where all the code can be modified and merged while Git is just a set of commands to navigate the terminal.
+3. Creating a branch allows you to work on the code individually without conflicting with other people.
+4. It begins the process to merge code changes with the main repo.
+5. Git branch
+6. git pull grabs and downloads content from the remote repo and immediately updates it to the local repo, git fetch downloads content from the remote repo. git merge allows you to merge branches from git.
+7. git is unbale to automattically resolve differences in code between multiple commits. 
+8. changes in the code need to occur on different lines or files. 
